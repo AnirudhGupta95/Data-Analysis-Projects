@@ -1,7 +1,7 @@
 # Data-Analysis-Projects
 This repository displays data analysis projects and related work.
 
-**PROJECT 1  - ANALYZING GLOBAL TEMPERATURES{Analyze_ab_test_results_notebook.pdf} [EXCEL AND MS WORD DATA ANALYSIS]**
+**PROJECT 1  - ANALYZING GLOBAL TEMPERATURES [EXCEL AND MS WORD DATA ANALYSIS]**
 
 **PROJECT 2  - TMDB MOVIE DATA ANALYSIS [COMPLETE DATA ANALYSIS USING PYTHON]**
 
